@@ -2,7 +2,7 @@
 
 This is a microservices project for course sales. It consists of 6 microservices: cart, catalog, discount, order, payment, and file/photo services.
 
-Ocelot Gateway used as a gateway. All microservices are protected with JWT Refresh token. 
+Ocelot Gateway used as a gateway. All microservices are protected with JWT. 
 
 Mvc Web App created to communicate with all these systems.
 
